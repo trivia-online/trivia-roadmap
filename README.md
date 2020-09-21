@@ -4,5 +4,5 @@
 ## [Trivia Roadmap](https://github.com/trivia-online/trivia-roadmap/projects/1)
 Trivia のロードマップです。
 
-## [Trivia Issue](https://github.com/trivia-online/trivia-roadmap/pulls)
+## [Trivia Issue](https://github.com/trivia-online/trivia-roadmap/issues)
 機能要望を募集しております。
