@@ -1,5 +1,8 @@
-# Trivia Roadmap
-Trivia のロードマップです。機能要望を募集しております。
+# 開発用リポジトリ
 
-## ボード
-[https://github.com/trivia-online/trivia-roadmap/projects/1](https://github.com/trivia-online/trivia-roadmap/projects/1)
+
+## [Trivia Roadmap](https://github.com/trivia-online/trivia-roadmap/projects/1)
+Trivia のロードマップです。
+
+## [Trivia Issue](https://github.com/trivia-online/trivia-roadmap/pulls)
+機能要望を募集しております。
