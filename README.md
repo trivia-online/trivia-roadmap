@@ -1,4 +1,4 @@
-# 開発用リポジトリ
+# コミュニティ用リポジトリ
 
 ## [Trivia Roadmap](https://github.com/trivia-online/trivia-roadmap/projects/1) :rocket:
 Trivia のロードマップです。
