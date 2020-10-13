@@ -3,6 +3,9 @@
 ## [Trivia Online](https://trivia-online.com/) :computer:
 アプリケーション本体です。
 
+## [Trivia Frontend](https://github.com/itizawa/trivia) :star:
+アプリケーションのフロントエンドは OSS です。
+
 ## [Trivia Roadmap](https://github.com/trivia-online/trivia-roadmap/projects/1) :rocket:
 Trivia のロードマップです。
 
